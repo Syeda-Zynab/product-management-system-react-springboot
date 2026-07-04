@@ -58,20 +58,16 @@ through a clean and responsive web interface.
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
-
-(Add screenshot)
+![Home](Images/home.png)
 
 ### 📋 Products List
-
-(Add screenshot)
+![Products](Images/products.png)
 
 ### ➕ Add Product
-
-(Add screenshot)
+![Add Product](Images/add-product.png)
 
 ### ✏️ Update Product
-
-(Add screenshot)
+![Update Product](Images/update-product.png)
 
 ---
 
@@ -112,3 +108,18 @@ through a clean and responsive web interface.
 ```bash
 npm install
 npm run dev
+
+## 🎯 Learning Outcomes
+
+This project helped me strengthen my understanding of:
+
+- React Functional Components
+- React Hooks (useState, useEffect)
+- React Router
+- REST API Integration
+- Fetch API
+- Spring Boot REST APIs
+- CRUD Operations
+- MySQL Database Integration
+- State Management
+- Full Stack Development
