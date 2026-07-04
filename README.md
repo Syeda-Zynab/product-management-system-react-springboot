@@ -58,7 +58,7 @@ through a clean and responsive web interface.
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
-![Home](Images/home.png)
+![Home](Images/Home.png)
 
 ### 📋 Products List
 ![Products](Images/products.png)
