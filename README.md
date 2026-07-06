@@ -1,4 +1,4 @@
-# 📦 Product Management System
+# 📦 Full Stack Product Management System
 
 ## 📌 Overview
 
@@ -46,7 +46,7 @@ through a clean and responsive web interface.
 - MySQL
 
 ### Tools
-- Eclipse / STS
+- STS
 - VS Code
 - MySQL Workbench
 - Postman
@@ -99,7 +99,7 @@ through a clean and responsive web interface.
 
 ### Backend
 
-1. Import into STS/Eclipse
+1. Import into STS
 2. Configure MySQL
 3. Run Spring Boot
 
